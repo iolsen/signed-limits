@@ -9,3 +9,5 @@ git pushed change
 another git-pushed change
 
 unsigned and unflagged
+
+unsigned and flagged
